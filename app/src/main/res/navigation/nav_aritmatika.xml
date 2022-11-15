@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_aritmatika"
+    app:startDestination="@+id/aritmatika1Fragment">
+
+    <fragment
+        android:id="@+id/aritmatika1Fragment"
+        android:name="app.hardika.emas.ui.aritmatika_sosial.fragment.Aritmatika1Fragment"
+        android:label="fragment_aritmatika1"
+        tools:layout="@layout/fragment_aritmatika1">
+
+        <action
+            android:id="@+id/action_aritmatika1Fragment_to_aritmatika2Fragment"
+            app:destination="@id/aritmatika2Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/aritmatika2Fragment"
+        android:name="app.hardika.emas.ui.aritmatika_sosial.fragment.Aritmatika2Fragment"
+        android:label="fragment_aritmatika2"
+        tools:layout="@layout/fragment_aritmatika2">
+
+        <action
+            android:id="@+id/action_aritmatika2Fragment_to_aritmatika3Fragment"
+            app:destination="@id/aritmatika3Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/aritmatika3Fragment"
+        android:name="app.hardika.emas.ui.aritmatika_sosial.fragment.Aritmatika3Fragment"
+        android:label="fragment_aritmatika3"
+        tools:layout="@layout/fragment_aritmatika3">
+
+        <action
+            android:id="@+id/action_aritmatika3Fragment_to_aritmatika4Fragment"
+            app:destination="@id/aritmatika4Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/aritmatika4Fragment"
+        android:name="app.hardika.emas.ui.aritmatika_sosial.fragment.Aritmatika4Fragment"
+        android:label="fragment_aritmatika4"
+        tools:layout="@layout/fragment_aritmatika4">
+
+        <action
+            android:id="@+id/action_aritmatika4Fragment_to_aritmatika5Fragment"
+            app:destination="@id/aritmatika5Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/aritmatika5Fragment"
+        android:name="app.hardika.emas.ui.aritmatika_sosial.fragment.Aritmatika5Fragment"
+        android:label="fragment_aritmatika5"
+        tools:layout="@layout/fragment_aritmatika5">
+
+        <action
+            android:id="@+id/action_aritmatika5Fragment_to_aritmatika6Fragment"
+            app:destination="@id/aritmatika6Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/aritmatika6Fragment"
+        android:name="app.hardika.emas.ui.aritmatika_sosial.fragment.Aritmatika6Fragment"
+        android:label="fragment_aritmatika6"
+        tools:layout="@layout/fragment_aritmatika6">
+
+        <action
+            android:id="@+id/action_aritmatika6Fragment_to_aritmatika7Fragment"
+            app:destination="@id/aritmatika7Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/aritmatika7Fragment"
+        android:name="app.hardika.emas.ui.aritmatika_sosial.fragment.Aritmatika7Fragment"
+        android:label="fragment_aritmatika7"
+        tools:layout="@layout/fragment_aritmatika7">
+
+        <action
+            android:id="@+id/action_aritmatika7Fragment_to_aritmatika8Fragment"
+            app:destination="@id/aritmatika8Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/aritmatika8Fragment"
+        android:name="app.hardika.emas.ui.aritmatika_sosial.fragment.Aritmatika8Fragment"
+        android:label="fragment_aritmatika8"
+        tools:layout="@layout/fragment_aritmatika8">
+
+        <action
+            android:id="@+id/action_aritmatika8Fragment_to_aritmatika9Fragment"
+            app:destination="@id/aritmatika9Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/aritmatika9Fragment"
+        android:name="app.hardika.emas.ui.aritmatika_sosial.fragment.Aritmatika9Fragment"
+        android:label="fragment_aritmatika9"
+        tools:layout="@layout/fragment_aritmatika9">
+
+        <action
+            android:id="@+id/action_aritmatika9Fragment_to_aritmatika10Fragment"
+            app:destination="@id/aritmatika10Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/aritmatika10Fragment"
+        android:name="app.hardika.emas.ui.aritmatika_sosial.fragment.Aritmatika10Fragment"
+        android:label="fragment_aritmatika10"
+        tools:layout="@layout/fragment_aritmatika9">
+
+<!--        <action-->
+<!--            android:id="@+id/action_aritmatika10Fragment_to_aritmatika10Fragment"-->
+<!--            app:destination="@id/aritmatika10Fragment" />-->
+    </fragment>
+</navigation>

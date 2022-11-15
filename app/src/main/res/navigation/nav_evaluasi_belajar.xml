@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_evaluasiBelajar"
+    app:startDestination="@+id/evaluasiBelajar1Fragment">
+
+    <fragment
+        android:id="@+id/evaluasiBelajar1Fragment"
+        android:name="app.hardika.emas.ui.evaluasi_belajar.fragment.EvaluasiBelajar1Fragment"
+        android:label="fragment_evaluasi_belajar1"
+        tools:layout="@layout/fragment_evaluasi_belajar1">
+
+        <action
+            android:id="@+id/action_evaluasiBelajar1Fragment_to_evaluasiBelajar2Fragment"
+            app:destination="@id/evaluasiBelajar2Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/evaluasiBelajar2Fragment"
+        android:name="app.hardika.emas.ui.evaluasi_belajar.fragment.EvaluasiBelajar2Fragment"
+        android:label="fragment_evaluasi_belajar2"
+        tools:layout="@layout/fragment_evaluasi_belajar2">
+
+        <action
+            android:id="@+id/action_evaluasiBelajar2Fragment_to_evaluasiBelajar3Fragment"
+            app:destination="@id/evaluasiBelajar3Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/evaluasiBelajar3Fragment"
+        android:name="app.hardika.emas.ui.evaluasi_belajar.fragment.EvaluasiBelajar3Fragment"
+        android:label="fragment_evaluasi_belajar3"
+        tools:layout="@layout/fragment_evaluasi_belajar3">
+
+        <action
+            android:id="@+id/action_evaluasiBelajar3Fragment_to_evaluasiBelajar4Fragment"
+            app:destination="@id/evaluasiBelajar4Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/evaluasiBelajar4Fragment"
+        android:name="app.hardika.emas.ui.evaluasi_belajar.fragment.EvaluasiBelajar4Fragment"
+        android:label="fragment_evaluasi_belajar4"
+        tools:layout="@layout/fragment_evaluasi_belajar4">
+
+        <action
+            android:id="@+id/action_evaluasiBelajar4Fragment_to_evaluasiBelajar5Fragment"
+            app:destination="@id/evaluasiBelajar5Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/evaluasiBelajar5Fragment"
+        android:name="app.hardika.emas.ui.evaluasi_belajar.fragment.EvaluasiBelajar5Fragment"
+        android:label="fragment_evaluasi_belajar5"
+        tools:layout="@layout/fragment_evaluasi_belajar5">
+
+        <action
+            android:id="@+id/action_evaluasiBelajar5Fragment_to_evaluasiBelajar6Fragment"
+            app:destination="@id/evaluasiBelajar6Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/evaluasiBelajar6Fragment"
+        android:name="app.hardika.emas.ui.evaluasi_belajar.fragment.EvaluasiBelajar6Fragment"
+        android:label="fragment_evaluasi_belajar6"
+        tools:layout="@layout/fragment_evaluasi_belajar6">
+
+        <action
+            android:id="@+id/action_evaluasiBelajar6Fragment_to_evaluasiBelajar7Fragment"
+            app:destination="@id/evaluasiBelajar7Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/evaluasiBelajar7Fragment"
+        android:name="app.hardika.emas.ui.evaluasi_belajar.fragment.EvaluasiBelajar7Fragment"
+        android:label="fragment_evaluasi_belajar7"
+        tools:layout="@layout/fragment_evaluasi_belajar7">
+
+        <action
+            android:id="@+id/action_evaluasiBelajar7Fragment_to_evaluasiBelajar8Fragment"
+            app:destination="@id/evaluasiBelajar8Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/evaluasiBelajar8Fragment"
+        android:name="app.hardika.emas.ui.evaluasi_belajar.fragment.EvaluasiBelajar8Fragment"
+        android:label="fragment_evaluasi_belajar8"
+        tools:layout="@layout/fragment_evaluasi_belajar8">
+
+        <action
+            android:id="@+id/action_evaluasiBelajar8Fragment_to_evaluasiBelajar9Fragment"
+            app:destination="@id/evaluasiBelajar9Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/evaluasiBelajar9Fragment"
+        android:name="app.hardika.emas.ui.evaluasi_belajar.fragment.EvaluasiBelajar9Fragment"
+        android:label="fragment_evaluasi_belajar9"
+        tools:layout="@layout/fragment_evaluasi_belajar9">
+
+        <action
+            android:id="@+id/action_evaluasiBelajar9Fragment_to_evaluasiBelajar10Fragment"
+            app:destination="@id/evaluasiBelajar10Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/evaluasiBelajar10Fragment"
+        android:name="app.hardika.emas.ui.evaluasi_belajar.fragment.EvaluasiBelajar10Fragment"
+        android:label="fragment_evaluasi_belajar10"
+        tools:layout="@layout/fragment_evaluasi_belajar9">
+
+        <action
+            android:id="@+id/action_evaluasiBelajar10Fragment_to_evaluasiBelajar11Fragment"
+            app:destination="@id/evaluasiBelajar11Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/evaluasiBelajar11Fragment"
+        android:name="app.hardika.emas.ui.evaluasi_belajar.fragment.EvaluasiBelajar11Fragment"
+        android:label="fragment_evaluasi_belajar11"
+        tools:layout="@layout/fragment_evaluasi_belajar11">
+
+        <action
+            android:id="@+id/action_evaluasiBelajar11Fragment_to_evaluasiBelajar12Fragment"
+            app:destination="@id/evaluasiBelajar12Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/evaluasiBelajar12Fragment"
+        android:name="app.hardika.emas.ui.evaluasi_belajar.fragment.EvaluasiBelajar12Fragment"
+        android:label="fragment_evaluasi_belajar12"
+        tools:layout="@layout/fragment_evaluasi_belajar12">
+
+        <action
+            android:id="@+id/action_evaluasiBelajar12Fragment_to_evaluasiBelajar13Fragment"
+            app:destination="@id/evaluasiBelajar13Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/evaluasiBelajar13Fragment"
+        android:name="app.hardika.emas.ui.evaluasi_belajar.fragment.EvaluasiBelajar13Fragment"
+        android:label="fragment_evaluasi_belajar13"
+        tools:layout="@layout/fragment_evaluasi_belajar13">
+
+        <action
+            android:id="@+id/action_evaluasiBelajar13Fragment_to_evaluasiBelajar14Fragment"
+            app:destination="@id/evaluasiBelajar14Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/evaluasiBelajar14Fragment"
+        android:name="app.hardika.emas.ui.evaluasi_belajar.fragment.EvaluasiBelajar14Fragment"
+        android:label="fragment_evaluasi_belajar14"
+        tools:layout="@layout/fragment_evaluasi_belajar14">
+
+        <action
+            android:id="@+id/action_evaluasiBelajar14Fragment_to_evaluasiBelajar15Fragment"
+            app:destination="@id/evaluasiBelajar15Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/evaluasiBelajar15Fragment"
+        android:name="app.hardika.emas.ui.evaluasi_belajar.fragment.EvaluasiBelajar15Fragment"
+        android:label="fragment_evaluasi_belajar15"
+        tools:layout="@layout/fragment_evaluasi_belajar15">
+
+        <action
+            android:id="@+id/action_evaluasiBelajar15Fragment_to_evaluasiBelajar16Fragment"
+            app:destination="@id/evaluasiBelajar16Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/evaluasiBelajar16Fragment"
+        android:name="app.hardika.emas.ui.evaluasi_belajar.fragment.EvaluasiBelajar16Fragment"
+        android:label="fragment_evaluasi_belajar16"
+        tools:layout="@layout/fragment_evaluasi_belajar16">
+
+        <action
+            android:id="@+id/action_evaluasiBelajar16Fragment_to_evaluasiBelajar17Fragment"
+            app:destination="@id/evaluasiBelajar17Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/evaluasiBelajar17Fragment"
+        android:name="app.hardika.emas.ui.evaluasi_belajar.fragment.EvaluasiBelajar17Fragment"
+        android:label="fragment_evaluasi_belajar17"
+        tools:layout="@layout/fragment_evaluasi_belajar17">
+
+        <action
+            android:id="@+id/action_evaluasiBelajar17Fragment_to_evaluasiBelajar18Fragment"
+            app:destination="@id/evaluasiBelajar18Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/evaluasiBelajar18Fragment"
+        android:name="app.hardika.emas.ui.evaluasi_belajar.fragment.EvaluasiBelajar18Fragment"
+        android:label="fragment_evaluasi_belajar18"
+        tools:layout="@layout/fragment_evaluasi_belajar18">
+
+<!--        <action-->
+<!--            android:id="@+id/action_evaluasiBelajar18Fragment_to_evaluasiBelajar19Fragment"-->
+<!--            app:destination="@id/evaluasiBelajar19Fragment" />-->
+    </fragment>
+
+
+</navigation>

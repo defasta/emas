@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/diskonPajak1Fragment"
+    android:id="@+id/nav_diskon_pajak">
+
+    <fragment
+        android:id="@+id/diskonPajak1Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.diskon_pajak.fragment.DiskonPajak1Fragment"
+        android:label="fragment_diskon_pajak1"
+        tools:layout="@layout/fragment_diskon_pajak1">
+
+        <action
+            android:id="@+id/action_diskonPajak1Fragment_to_diskonPajak2Fragment"
+            app:destination="@id/diskonPajak2Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/diskonPajak2Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.diskon_pajak.fragment.DiskonPajak2Fragment"
+        android:label="fragment_diskon_pajak2"
+        tools:layout="@layout/fragment_diskon_pajak1">
+
+        <action
+            android:id="@+id/action_diskonPajak2Fragment_to_diskonPajak3Fragment"
+            app:destination="@id/diskonPajak3Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/diskonPajak3Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.diskon_pajak.fragment.DiskonPajak3Fragment"
+        android:label="fragment_diskon_pajak3"
+        tools:layout="@layout/fragment_diskon_pajak3">
+
+        <action
+            android:id="@+id/action_diskonPajak3Fragment_to_diskonPajak4Fragment"
+            app:destination="@id/diskonPajak4Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/diskonPajak4Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.diskon_pajak.fragment.DiskonPajak4Fragment"
+        android:label="fragment_diskon_pajak4"
+        tools:layout="@layout/fragment_diskon_pajak4">
+
+        <action
+            android:id="@+id/action_diskonPajak4Fragment_to_diskonPajak5Fragment"
+            app:destination="@id/diskonPajak5Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/diskonPajak5Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.diskon_pajak.fragment.DiskonPajak5Fragment"
+        android:label="fragment_diskon_pajak5"
+        tools:layout="@layout/fragment_diskon_pajak5">
+
+        <action
+            android:id="@+id/action_diskonPajak5Fragment_to_diskonPajak6Fragment"
+            app:destination="@id/diskonPajak6Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/diskonPajak6Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.diskon_pajak.fragment.DiskonPajak6Fragment"
+        android:label="fragment_diskon_pajak6"
+        tools:layout="@layout/fragment_diskon_pajak6">
+
+        <action
+            android:id="@+id/action_diskonPajak6Fragment_to_diskonPajak7Fragment"
+            app:destination="@id/diskonPajak7Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/diskonPajak7Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.diskon_pajak.fragment.DiskonPajak7Fragment"
+        android:label="fragment_diskon_pajak7"
+        tools:layout="@layout/fragment_diskon_pajak7">
+
+        <action
+            android:id="@+id/action_diskonPajak7Fragment_to_diskonPajak8Fragment"
+            app:destination="@id/diskonPajak8Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/diskonPajak8Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.diskon_pajak.fragment.DiskonPajak8Fragment"
+        android:label="fragment_diskon_pajak8"
+        tools:layout="@layout/fragment_diskon_pajak8">
+
+        <action
+            android:id="@+id/action_diskonPajak8Fragment_to_diskonPajak9Fragment"
+            app:destination="@id/diskonPajak9Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/diskonPajak9Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.diskon_pajak.fragment.DiskonPajak9Fragment"
+        android:label="fragment_diskon_pajak9"
+        tools:layout="@layout/fragment_diskon_pajak9">
+
+        <action
+            android:id="@+id/action_diskonPajak9Fragment_to_diskonPajak10Fragment"
+            app:destination="@id/diskonPajak10Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/diskonPajak10Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.diskon_pajak.fragment.DiskonPajak10Fragment"
+        android:label="fragment_diskon_pajak10"
+        tools:layout="@layout/fragment_diskon_pajak10">
+
+        <action
+            android:id="@+id/action_diskonPajak10Fragment_to_diskonPajak11Fragment"
+            app:destination="@id/diskonPajak11Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/diskonPajak11Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.diskon_pajak.fragment.DiskonPajak11Fragment"
+        android:label="fragment_diskon_pajak11"
+        tools:layout="@layout/fragment_diskon_pajak11">
+
+        <action
+            android:id="@+id/action_diskonPajak11Fragment_to_diskonPajak12Fragment"
+            app:destination="@id/diskonPajak12Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/diskonPajak12Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.diskon_pajak.fragment.DiskonPajak12Fragment"
+        android:label="fragment_diskon_pajak12"
+        tools:layout="@layout/fragment_diskon_pajak12">
+
+        <action
+            android:id="@+id/action_diskonPajak12Fragment_to_diskonPajak13Fragment"
+            app:destination="@id/diskonPajak13Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/diskonPajak13Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.diskon_pajak.fragment.DiskonPajak13Fragment"
+        android:label="fragment_diskon_pajak13"
+        tools:layout="@layout/fragment_diskon_pajak13">
+
+        <action
+            android:id="@+id/action_diskonPajak13Fragment_to_diskonPajak14Fragment"
+            app:destination="@id/diskonPajak14Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/diskonPajak14Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.diskon_pajak.fragment.DiskonPajak14Fragment"
+        android:label="fragment_diskon_pajak14"
+        tools:layout="@layout/fragment_diskon_pajak14">
+
+        <action
+            android:id="@+id/action_diskonPajak14Fragment_to_diskonPajak15Fragment"
+            app:destination="@id/diskonPajak15Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/diskonPajak15Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.diskon_pajak.fragment.DiskonPajak15Fragment"
+        android:label="fragment_diskon_pajak14"
+        tools:layout="@layout/fragment_diskon_pajak15">
+
+<!--        <action-->
+<!--            android:id="@+id/action_diskonPajak15Fragment_to_diskonPajak16Fragment"-->
+<!--            app:destination="@id/diskonPajak16Fragment" />-->
+    </fragment>
+
+</navigation>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/brutoNettoTara1Fragment"
+    android:id="@+id/nav_bruto_netto_tara">
+
+    <fragment
+        android:id="@+id/brutoNettoTara1Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bruto_netto_tara.fragment.BrutoNettoTara1Fragment"
+        android:label="fragment_bruto_netto_tara1"
+        tools:layout="@layout/fragment_bruto_netto_tara1">
+
+        <action
+            android:id="@+id/action_brutoNettoTara1Fragment_to_brutoNettoTara2Fragment"
+            app:destination="@id/brutoNettoTara2Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/brutoNettoTara2Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bruto_netto_tara.fragment.BrutoNettoTara2Fragment"
+        android:label="fragment_bruto_netto_tara2"
+        tools:layout="@layout/fragment_bruto_netto_tara1">
+
+        <action
+            android:id="@+id/action_brutoNettoTara2Fragment_to_brutoNettoTara3Fragment"
+            app:destination="@id/brutoNettoTara3Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/brutoNettoTara3Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bruto_netto_tara.fragment.BrutoNettoTara3Fragment"
+        android:label="fragment_bruto_netto_tara3"
+        tools:layout="@layout/fragment_bruto_netto_tara3">
+
+        <action
+            android:id="@+id/action_brutoNettoTara3Fragment_to_brutoNettoTara4Fragment"
+            app:destination="@id/brutoNettoTara4Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/brutoNettoTara4Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bruto_netto_tara.fragment.BrutoNettoTara4Fragment"
+        android:label="fragment_bruto_netto_tara4"
+        tools:layout="@layout/fragment_bruto_netto_tara4">
+
+        <action
+            android:id="@+id/action_brutoNettoTara4Fragment_to_brutoNettoTara5Fragment"
+            app:destination="@id/brutoNettoTara5Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/brutoNettoTara5Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bruto_netto_tara.fragment.BrutoNettoTara5Fragment"
+        android:label="fragment_bruto_netto_tara5"
+        tools:layout="@layout/fragment_bruto_netto_tara5">
+
+        <action
+            android:id="@+id/action_brutoNettoTara5Fragment_to_brutoNettoTara6Fragment"
+            app:destination="@id/brutoNettoTara6Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/brutoNettoTara6Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bruto_netto_tara.fragment.BrutoNettoTara6Fragment"
+        android:label="fragment_bruto_netto_tara6"
+        tools:layout="@layout/fragment_bruto_netto_tara6">
+
+        <action
+            android:id="@+id/action_brutoNettoTara6Fragment_to_brutoNettoTara7Fragment"
+            app:destination="@id/brutoNettoTara7Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/brutoNettoTara7Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bruto_netto_tara.fragment.BrutoNettoTara7Fragment"
+        android:label="fragment_bruto_netto_tara7"
+        tools:layout="@layout/fragment_bruto_netto_tara7">
+
+        <action
+            android:id="@+id/action_brutoNettoTara7Fragment_to_brutoNettoTara8Fragment"
+            app:destination="@id/brutoNettoTara8Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/brutoNettoTara8Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bruto_netto_tara.fragment.BrutoNettoTara8Fragment"
+        android:label="fragment_bruto_netto_tara8"
+        tools:layout="@layout/fragment_bruto_netto_tara8">
+
+        <action
+            android:id="@+id/action_brutoNettoTara8Fragment_to_brutoNettoTara9Fragment"
+            app:destination="@id/brutoNettoTara9Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/brutoNettoTara9Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bruto_netto_tara.fragment.BrutoNettoTara9Fragment"
+        android:label="fragment_bruto_netto_tara9"
+        tools:layout="@layout/fragment_bruto_netto_tara9">
+
+        <action
+            android:id="@+id/action_brutoNettoTara9Fragment_to_brutoNettoTara10Fragment"
+            app:destination="@id/brutoNettoTara10Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/brutoNettoTara10Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bruto_netto_tara.fragment.BrutoNettoTara10Fragment"
+        android:label="fragment_bruto_netto_tara10"
+        tools:layout="@layout/fragment_bruto_netto_tara10">
+
+        <action
+            android:id="@+id/action_brutoNettoTara10Fragment_to_brutoNettoTara11Fragment"
+            app:destination="@id/brutoNettoTara11Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/brutoNettoTara11Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bruto_netto_tara.fragment.BrutoNettoTara11Fragment"
+        android:label="fragment_bruto_netto_tara11"
+        tools:layout="@layout/fragment_bruto_netto_tara11">
+
+<!--        <action-->
+<!--            android:id="@+id/action_brutoNettoTara11Fragment_to_brutoNettoTara12Fragment"-->
+<!--            app:destination="@id/brutoNettoTara12Fragment" />-->
+    </fragment>
+
+<!--    <fragment-->
+<!--        android:id="@+id/brutoNettoTara12Fragment"-->
+<!--        android:name="app.hardika.emas.kegiatan_belajar.bruto_netto_tara.fragment.BrutoNettoTara12Fragment"-->
+<!--        android:label="fragment_bruto_netto_tara12"-->
+<!--        tools:layout="@layout/fragment_bruto_netto_tara12">-->
+
+<!--&lt;!&ndash;        <action&ndash;&gt;-->
+<!--&lt;!&ndash;            android:id="@+id/action_brutoNettoTara11Fragment_to_brutoNettoTara12Fragment"&ndash;&gt;-->
+<!--&lt;!&ndash;            app:destination="@id/brutoNettoTara12Fragment" />&ndash;&gt;-->
+<!--    </fragment>-->
+
+
+</navigation>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/bungaTunggal1Fragment"
+    android:id="@+id/nav_bunga_tunggal">
+
+    <fragment
+        android:id="@+id/bungaTunggal1Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bunga_tunggal.fragment.BungaTunggal1Fragment"
+        android:label="fragment_bunga_tunggal1"
+        tools:layout="@layout/fragment_bunga_tunggal1">
+
+        <action
+            android:id="@+id/action_bungaTunggal1Fragment_to_bungaTunggal2Fragment"
+            app:destination="@id/bungaTunggal2Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/bungaTunggal2Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bunga_tunggal.fragment.BungaTunggal2Fragment"
+        android:label="fragment_bunga_tunggal2"
+        tools:layout="@layout/fragment_bunga_tunggal1">
+
+        <action
+            android:id="@+id/action_bungaTunggal2Fragment_to_bungaTunggal3Fragment"
+            app:destination="@id/bungaTunggal3Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/bungaTunggal3Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bunga_tunggal.fragment.BungaTunggal3Fragment"
+        android:label="fragment_bunga_tunggal3"
+        tools:layout="@layout/fragment_bunga_tunggal3">
+
+        <action
+            android:id="@+id/action_bungaTunggal3Fragment_to_bungaTunggal4Fragment"
+            app:destination="@id/bungaTunggal4Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/bungaTunggal4Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bunga_tunggal.fragment.BungaTunggal4Fragment"
+        android:label="fragment_bunga_tunggal4"
+        tools:layout="@layout/fragment_bunga_tunggal4">
+
+        <action
+            android:id="@+id/action_bungaTunggal4Fragment_to_bungaTunggal5Fragment"
+            app:destination="@id/bungaTunggal5Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/bungaTunggal5Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bunga_tunggal.fragment.BungaTunggal5Fragment"
+        android:label="fragment_bunga_tunggal5"
+        tools:layout="@layout/fragment_bunga_tunggal5">
+
+        <action
+            android:id="@+id/action_bungaTunggal5Fragment_to_bungaTunggal6Fragment"
+            app:destination="@id/bungaTunggal6Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/bungaTunggal6Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bunga_tunggal.fragment.BungaTunggal6Fragment"
+        android:label="fragment_bunga_tunggal6"
+        tools:layout="@layout/fragment_bunga_tunggal6">
+
+        <action
+            android:id="@+id/action_bungaTunggal6Fragment_to_bungaTunggal7Fragment"
+            app:destination="@id/bungaTunggal7Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/bungaTunggal7Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bunga_tunggal.fragment.BungaTunggal7Fragment"
+        android:label="fragment_bunga_tunggal7"
+        tools:layout="@layout/fragment_bunga_tunggal7">
+
+        <action
+            android:id="@+id/action_bungaTunggal7Fragment_to_bungaTunggal8Fragment"
+            app:destination="@id/bungaTunggal8Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/bungaTunggal8Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bunga_tunggal.fragment.BungaTunggal8Fragment"
+        android:label="fragment_bunga_tunggal8"
+        tools:layout="@layout/fragment_bunga_tunggal8">
+
+        <action
+            android:id="@+id/action_bungaTunggal8Fragment_to_bungaTunggal9Fragment"
+            app:destination="@id/bungaTunggal9Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/bungaTunggal9Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bunga_tunggal.fragment.BungaTunggal9Fragment"
+        android:label="fragment_bunga_tunggal9"
+        tools:layout="@layout/fragment_bunga_tunggal9">
+
+        <action
+            android:id="@+id/action_bungaTunggal9Fragment_to_bungaTunggal10Fragment"
+            app:destination="@id/bungaTunggal10Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/bungaTunggal10Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bunga_tunggal.fragment.BungaTunggal10Fragment"
+        android:label="fragment_bunga_tunggal10"
+        tools:layout="@layout/fragment_bunga_tunggal10">
+
+        <action
+            android:id="@+id/action_bungaTunggal10Fragment_to_bungaTunggal11Fragment"
+            app:destination="@id/bungaTunggal11Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/bungaTunggal11Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bunga_tunggal.fragment.BungaTunggal11Fragment"
+        android:label="fragment_bunga_tunggal11"
+        tools:layout="@layout/fragment_bunga_tunggal11">
+
+        <action
+            android:id="@+id/action_bungaTunggal11Fragment_to_bungaTunggal12Fragment"
+            app:destination="@id/bungaTunggal12Fragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/bungaTunggal12Fragment"
+        android:name="app.hardika.emas.ui.kegiatan_belajar.bunga_tunggal.fragment.BungaTunggal12Fragment"
+        android:label="fragment_bunga_tunggal12"
+        tools:layout="@layout/fragment_bunga_tunggal12">
+
+<!--        <action-->
+<!--            android:id="@+id/action_bungaTunggal11Fragment_to_bungaTunggal12Fragment"-->
+<!--            app:destination="@id/bungaTunggal12Fragment" />-->
+    </fragment>
+
+
+</navigation>

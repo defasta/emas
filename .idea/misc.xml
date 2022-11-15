@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/activity_aritmatika.xml" value="0.3432971014492754" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/activity_bruto_netto_tara.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/activity_bunga_tunggal.xml" value="0.1" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/activity_diskon_pajak.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/activity_evaluasi_belajar.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/activity_informasi_umum.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/activity_navigasi_kegiatan_belajar.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/activity_navigation.xml" value="0.3432971014492754" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/activity_navigation2.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/activity_navigation_kegiatan_belajar.xml" value="0.2" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/activity_petunjuk_umum.xml" value="0.33" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/activity_share.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/activity_untung_rugi.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_aritmatika1.xml" value="0.2" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_aritmatika10.xml" value="0.31068840579710144" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_aritmatika2.xml" value="0.3432971014492754" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_aritmatika3.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_aritmatika4.xml" value="0.31068840579710144" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_aritmatika5.xml" value="0.31068840579710144" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_aritmatika6.xml" value="0.31068840579710144" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_aritmatika7.xml" value="0.31068840579710144" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_aritmatika8.xml" value="0.31068840579710144" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_aritmatika9.xml" value="0.31068840579710144" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_base.xml" value="0.3432971014492754" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bruto_neto_tara4.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bruto_neto_tara5.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bruto_netto_tara1.xml" value="0.25" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bruto_netto_tara10.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bruto_netto_tara11.xml" value="0.33" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bruto_netto_tara2.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bruto_netto_tara3.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bruto_netto_tara4.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bruto_netto_tara5.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bruto_netto_tara6.xml" value="0.33" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bruto_netto_tara7.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bruto_netto_tara8.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bruto_netto_tara9.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bunga_tunggal1.xml" value="0.14868287740628167" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bunga_tunggal10.xml" value="0.14868287740628167" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bunga_tunggal11.xml" value="0.14868287740628167" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bunga_tunggal12.xml" value="0.30572916666666666" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bunga_tunggal2.xml" value="0.14868287740628167" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bunga_tunggal3.xml" value="0.33" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bunga_tunggal4.xml" value="0.5" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bunga_tunggal5.xml" value="0.14868287740628167" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bunga_tunggal6.xml" value="0.14868287740628167" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bunga_tunggal7.xml" value="0.14868287740628167" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bunga_tunggal8.xml" value="0.5" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_bunga_tunggal9.xml" value="0.14868287740628167" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_diskon_pajak1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_diskon_pajak10.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_diskon_pajak11.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_diskon_pajak12.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_diskon_pajak13.xml" value="0.27807971014492755" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_diskon_pajak14.xml" value="0.27807971014492755" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_diskon_pajak15.xml" value="0.27807971014492755" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_diskon_pajak2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_diskon_pajak3.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_diskon_pajak4.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_diskon_pajak5.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_diskon_pajak6.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_diskon_pajak7.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_diskon_pajak8.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_diskon_pajak9.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar1.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar10.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar11.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar12.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar13.xml" value="0.25" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar14.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar15.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar16.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar17.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar18.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar19.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar2.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar20.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar21.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar3.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar4.xml" value="0.2971014492753623" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar5.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar6.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar7.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar8.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_evaluasi_belajar9.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_kegiatan_belajar1.xml" value="0.2971014492753623" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_kegiatan_belajar2.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_untung_rugi1.xml" value="0.33" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_untung_rugi10.xml" value="0.33" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_untung_rugi11.xml" value="0.33" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_untung_rugi12.xml" value="0.33" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_untung_rugi13.xml" value="0.25" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_untung_rugi14.xml" value="0.5" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_untung_rugi15.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_untung_rugi2.xml" value="0.33" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_untung_rugi3.xml" value="0.25" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_untung_rugi4.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_untung_rugi5.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_untung_rugi6.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_untung_rugi7.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_untung_rugi8.xml" value="0.22" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/layout/fragment_untung_rugi9.xml" value="0.33" />
+        <entry key="..\:/Users/apdef/AndroidStudioProjects/EMAS/app/src/main/res/menu/drawer_list.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
